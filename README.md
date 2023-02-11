@@ -28,7 +28,8 @@ Analysis include
 
 ## Report
 
-![application](./images/application_page.png) ![Ledger](./images/ledger.png)
+![application](./images/application_page.png)
+![Ledger](./images/ledger.png)
 
 ## Contribution Guidelines:
 
