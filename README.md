@@ -28,8 +28,8 @@ Analysis include
 
 ## Report
 
-![application](./images/application_page.png)
-![Ledger](./images/ledger.png)
+![application](https://raw.githubusercontent.com/robel-codes/blockchain-ledger/main/Images/application_page.png)
+![Ledger](https://github.com/robel-codes/blockchain-ledger/blob/main/Images/ledger.png)
 
 ## Contribution Guidelines:
 
